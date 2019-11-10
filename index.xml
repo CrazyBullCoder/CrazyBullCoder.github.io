@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://CrazyBullCoder.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Nov 2019 13:19:56 +0800</lastBuildDate>
+    
+	<atom:link href="https://CrazyBullCoder.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MYFirstBolg</title>
+      <link>https://CrazyBullCoder.github.io/post/bolg/</link>
+      <pubDate>Sun, 10 Nov 2019 13:19:56 +0800</pubDate>
+      
+      <guid>https://CrazyBullCoder.github.io/post/bolg/</guid>
+      <description> -个人博客 -Github
+#数据库相关 - </description>
+    </item>
+    
+  </channel>
+</rss>
